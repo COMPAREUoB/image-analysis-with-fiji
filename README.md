@@ -4,7 +4,7 @@
 
 [Course website](https://jeremypike.github.io/image-analysis-with-fiji/)
 
-# Author
+# Authors
 
 Jeremy Pike, [COMPARE](http://www.birmingham-nottingham.ac.uk/compare/)
 

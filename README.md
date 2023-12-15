@@ -2,7 +2,7 @@
 
 # Image Analysis with FIJI
 
-[Course website](https://jeremypike.github.io/image-analysis-with-fiji/)
+[Course website](https://COMPAREUoB.github.io/image-analysis-with-fiji/)
 
 # Authors
 

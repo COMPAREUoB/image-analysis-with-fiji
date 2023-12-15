@@ -6,7 +6,7 @@
 
 # Authors
 
-[COMPARE Advanced Imaging] (https://www.birmingham.ac.uk/university/colleges/mds/facilities/compare/advanced-imaging-facility/index.aspx)
+[COMPARE Advanced Imaging](https://www.birmingham.ac.uk/university/colleges/mds/facilities/compare/advanced-imaging-facility/index.aspx)
 
 
 # Summary: 

@@ -6,7 +6,7 @@
 
 # Authors
 
-Jeremy Pike, [COMPARE](http://www.birmingham-nottingham.ac.uk/compare/)
+COMPARE Advanced Imaging, [COMPARE](https://www.birmingham.ac.uk/university/colleges/mds/facilities/compare/advanced-imaging-facility/index.aspx)
 
 
 # Summary: 

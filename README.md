@@ -6,8 +6,8 @@
 
 # Authors
 
-[Jeremy Pike](https://www.birmingham.ac.uk/research/arc/rsg/staff/jeremy-pike.aspx)
-[Joao Correia](https://www.birmingham.ac.uk/university/colleges/mds/facilities/compare/advanced-imaging-facility/index.aspx)
+[Jeremy Pike](https://www.birmingham.ac.uk/research/arc/rsg/staff/jeremy-pike.aspx), 
+[Joao Correia](https://www.birmingham.ac.uk/university/colleges/mds/facilities/compare/advanced-imaging-facility/index.aspx), and 
 [Hector Basevi](https://www.birmingham.ac.uk/university/colleges/mds/facilities/compare/index.aspx)
 
 

@@ -31,5 +31,6 @@ After this course particpants should be able to:
 # Note
 
 This repository was forked from [Jeremy Pike's original](https://github.com/JeremyPike/image-analysis-with-fiji) 
+
 Course material was originally developed at the Cancer Resarch UK Cambridge Institute and adapted by Jeremy Pike, Joao Correia and Hector Basevi.
 The material for this course was .

@@ -6,7 +6,9 @@
 
 # Authors
 
-[COMPARE Advanced Imaging](https://www.birmingham.ac.uk/university/colleges/mds/facilities/compare/advanced-imaging-facility/index.aspx)
+[Jeremy Pike](https://www.birmingham.ac.uk/research/arc/rsg/staff/jeremy-pike.aspx)
+[Joao Correia](https://www.birmingham.ac.uk/university/colleges/mds/facilities/compare/advanced-imaging-facility/index.aspx)
+[Hector Basevi](https://www.birmingham.ac.uk/university/colleges/mds/facilities/compare/index.aspx)
 
 
 # Summary: 
@@ -28,4 +30,6 @@ After this course particpants should be able to:
 
 # Note
 
-The material for this course was originally developed at the Cancer Resarch UK Cambridge institute.
+This repository was forked from [Jeremy Pike's original](https://github.com/JeremyPike/image-analysis-with-fiji) 
+Course material was originally developed at the Cancer Resarch UK Cambridge Institute and adapted by Jeremy Pike, Joao Correia and Hector Basevi.
+The material for this course was .

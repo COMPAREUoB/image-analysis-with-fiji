@@ -6,10 +6,11 @@
 
 # Authors
 
-[Jeremy Pike](https://www.birmingham.ac.uk/research/arc/rsg/staff/jeremy-pike.aspx), 
-[Joao Correia](https://www.birmingham.ac.uk/university/colleges/mds/facilities/compare/advanced-imaging-facility/index.aspx), 
-[Hector Basevi](https://www.birmingham.ac.uk/university/colleges/mds/facilities/compare/index.aspx), and
-[Edalat Radfar](https://www.birmingham.ac.uk/university/colleges/mds/facilities/compare/index.aspx)
+[Edalat Radfar](https://www.birmingham.ac.uk/about/college-of-medicine-and-health/facilities/compare-advanced-imaging-facility),
+[Mezida Saeed](https://www.birmingham.ac.uk/about/college-of-medicine-and-health/facilities/compare-advanced-imaging-facility),
+[Hector Basevi](https://www.birmingham.ac.uk/university/colleges/mds/facilities/compare/index.aspx),
+[Jeremy Pike](https://www.birmingham.ac.uk/research/arc/rsg/staff/jeremy-pike.aspx), and
+[Joao Correia](https://www.birmingham.ac.uk/university/colleges/mds/facilities/compare/advanced-imaging-facility/index.aspx).
 
 # Summary: 
 
